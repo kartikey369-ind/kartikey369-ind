@@ -49,7 +49,7 @@ const KARTIKEY = {
 
 > 📦 185.8 kB Used in GitHub's Storage 
  > 
-> 🏆 79 Contributions in the Year 2024 ( *still going on* )
+> 🏆 349 Contributions in the Year 2024 ( *still going on* )
  
 > 📜 3 Public Repositories 
  > 
