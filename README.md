@@ -5,7 +5,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kartikeyzzz?label=Follow)](https://twitter.com/intent/follow?screen_name=kartikeyzzz)
-[![Linkedin: kartikey korimilli](https://img.shields.io/badge/-kartikeykorimilli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikey-k-a6aa6a308/)](https://www.linkedin.com/in/kartikey-k-a6aa6a308/)
+[![Linkedin: kartikey korimilli](https://img.shields.io/badge/-kartikeykorimilli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikeykorimilli/)](https://www.linkedin.com/in/kartikeykorimilli/)
 ![GitHub followers](https://img.shields.io/github/followers/kartikey369-ind?label=Follow&style=social)
 
 ### 📫 Like to meet me?
